@@ -1,0 +1,10 @@
+target/
+libs/
+
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Mac OS ###
+.DS_Store
